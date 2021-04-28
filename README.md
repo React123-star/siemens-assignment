@@ -1,18 +1,21 @@
-Siemens Assignment
+## Siemens Assignment
 
-Client
+## Client
 
 To run client react app run following command
 
-cd client
-npm i 
-npm start
+`cd client`
+
+`npm i `
+
+`npm start`
+
+## API
 
 To Run backend node server
 
-cd api
-npm i 
-npm start
+`cd api`
 
+`npm i `
 
-
+`npm st`
